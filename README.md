@@ -1,8 +1,8 @@
 
-# Hi, I'm Kabir! 👋
+# Hi, I'm Kevin! 👋
 
 
-I'm a Discord Bot Developer and here is mine bot handler
+I'm a Stupid Discord Bot Developer and here is mine bot handler
 
 
 # Discord.JS V14 Handler
